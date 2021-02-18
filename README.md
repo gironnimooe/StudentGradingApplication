@@ -1,6 +1,6 @@
 # StudentGradingApplication
 
-This is my first app i coded my self ever, please be kind ;)
+This is the first app i coded my self ever, please be kind ;)
 
 A small consol application to set and show students, grades and subjects.  
 You are now able to generate students and give grades for selected subjects.

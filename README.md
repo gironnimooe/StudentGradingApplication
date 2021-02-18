@@ -1,8 +1,9 @@
 # StudentGradingApplication
-A small consol application to set and show students grades and subjects.
+A small consol application to set and show students grades and subjects.  
+You are now able to generate Students and give grades for selected subjects.
 
-
-Clone the code in any directory you want. The code is free to use.
+  
+Clone the code in any directory you want. The code is free to use.    
 
 
 Introduction to start the application via CMD/BASH    
@@ -10,7 +11,7 @@ Introduction to start the application via CMD/BASH
 Step 1: Open the CMD  
 Step 2: Navigate to .../StudentOrganisationList/out/artifacts/StudentOrganisationList_jar/  
 Step 3: Run " java -jar StudentOrganisationList.jar "  
-Step 4: Use the application  
+Step 4: Use the application      
 
 
 By now the given data will not be saved as soon as you quit the application.

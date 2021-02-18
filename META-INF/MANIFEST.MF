@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: de.ebc.storch.Main
+Class-Path: de.ebc.storch.*
+

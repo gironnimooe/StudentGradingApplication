@@ -1,6 +1,5 @@
 # StudentGradingApplication
 
-This is the first app i coded my self ever, please be kind ;)
 
 A small consol application to set and show students, grades and subjects.  
 You are now able to generate students and give grades for selected subjects.
@@ -17,4 +16,6 @@ Step 3: Run " java -jar StudentOrganisationList.jar "
 Step 4: Use the application      
 
 
-By now the given data will not be saved as soon as you quit the application.
+By now the given data will not be saved as soon as you quit the application.  
+  
+  ps: This is the first app i coded my self ever, please be kind ;)

@@ -1,6 +1,6 @@
 # StudentGradingApplication
-A small consol application to set and show students grades and subjects.  
-You are now able to generate Students and give grades for selected subjects.
+A small consol application to set and show students, grades and subjects.  
+You are now able to generate students and give grades for selected subjects.
 
   
 Clone the code in any directory you want. The code is free to use.    
